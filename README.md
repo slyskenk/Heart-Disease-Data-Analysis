@@ -31,15 +31,11 @@ Applied and compared multiple classification algorithms:
 
 Logistic Regression
 
-Decision Tree
 
 K-Nearest Neighbors
 
 Linear Discriminant Analysis
 
-Gaussian Naive Bayes
-
-Support Vector Machine
 
 4. Evaluation
 Accuracy Score
